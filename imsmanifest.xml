@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_617Zh1F9hqA" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Staffbase Onboarding</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Staffbase_Onboarding_ORG">
+    <organization identifier="Staffbase_Onboarding_ORG">
+      <title>Staffbase Onboarding</title>
+      <item identifier="RitualsELearningI_SCO" isvisible="true" identifierref="__617Zh1F9hqA_RES">
+        <title>Staffbase Onboarding</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__617Zh1F9hqA_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6AMEWezpGN5.png" />
+      <file href="mobile/6K5hmZfhpjg.png" />
+      <file href="mobile/6phYrsOEoVB.gif" />
+      <file href="mobile/617B1aU5kg0.png" />
+      <file href="mobile/6Yh6vzYxuKx.png" />
+      <file href="mobile/6eZake6uFR1_Q2FFFFFF.png" />
+      <file href="mobile/6HDZImCWDtk.png" />
+      <file href="mobile/6d0Evd3k0aC.png" />
+      <file href="mobile/5rknUYnE1yO.png" />
+      <file href="mobile/5cmMrPHR4kk.png" />
+      <file href="mobile/6rfbyIQTZfP.png" />
+      <file href="mobile/6nlVjOBb8mB.png" />
+      <file href="mobile/60p8vdNC7xQ.png" />
+      <file href="mobile/68Gj1M5LcUB.png" />
+      <file href="mobile/6TkRepCXFK7.png" />
+      <file href="mobile/6TkRepCXFK7_P_543_0_99_224.png" />
+      <file href="mobile/5fN0PT8etPh.png" />
+      <file href="mobile/6Aic9jUo3RJ.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6SiH68W2iqb.png" />
+      <file href="mobile/txt__default_5pb4bFGeGCT.png" />
+      <file href="mobile/txt__default_6brnSvhDwZW.png" />
+      <file href="mobile/txt__default_5x2e9arKoUX.png" />
+      <file href="mobile/txt__default_5vFE4AG1LtP.png" />
+      <file href="mobile/txt__default_5XOvZzG5DSi.png" />
+      <file href="mobile/txt__default_6WSn5cgBa0o.png" />
+      <file href="mobile/txt__default_6gaawWEdEQF.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5hvMaEV5HHL.js" />
+      <file href="html5/data/js/64OpV7e0S6s.js" />
+      <file href="html5/data/js/68XWAVhfbDL.js" />
+      <file href="html5/data/js/6hQfOhaVWIM.js" />
+      <file href="html5/data/js/6Im3LBsjs4k.js" />
+      <file href="html5/data/js/6jzxbw2EH7w.js" />
+      <file href="html5/data/js/6nMkMkeNXP7.js" />
+      <file href="html5/data/js/6rAzWxLpjHQ.js" />
+      <file href="html5/data/js/6W6XOt7Wu1k.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
